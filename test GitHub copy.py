@@ -7,8 +7,8 @@ Created on Thu Mar 21 11:13:23 2024
 """
 
 x = 100
-y = 20
-z = 10
+y = 10
 
 print(x + y)
-print(y - z)
+
+
